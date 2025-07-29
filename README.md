@@ -36,10 +36,10 @@ This project provides a simple UART (Universal Asynchronous Receiver Transmitter
 
 - **Time unit:** 1 µs  
 - **Time precision:** 1 ns
-
+```
 This makes waveform visualization easier for baud-rate-level signals (like 104.167 µs per bit at 9600 bps).
 
-```
+
 ## 🧺s Testbench Behavior
 
 The testbench does the following:
@@ -79,7 +79,6 @@ a
 
 ### 🖼️ Example UART Waveform
 
-Save your waveform screenshot as `uart_waveform.png` inside an `images/` directory and it will render here:
 
 ![UART waveform example](simple_waveform.png)
 
