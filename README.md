@@ -34,7 +34,6 @@ This project provides a simple UART (Universal Asynchronous Receiver Transmitter
 
 ```verilog
 `timescale 1us / 1ns
-```
 
 - **Time unit:** 1 µs  
 - **Time precision:** 1 ns
@@ -85,7 +84,7 @@ a
 
 Save your waveform screenshot as `uart_waveform.png` inside an `images/` directory and it will render here:
 
-![UART waveform example](sample_waveform.jpg)
+![UART waveform example](simple_waveform.png)
 
 ---
 
