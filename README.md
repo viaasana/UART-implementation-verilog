@@ -1,7 +1,6 @@
 
 ---
 
-```markdown
 # UART Module in Verilog
 
 ## 📦 Overview
@@ -40,8 +39,7 @@ This project provides a simple UART (Universal Asynchronous Receiver Transmitter
 
 This makes waveform visualization easier for baud-rate-level signals (like 104.167 µs per bit at 9600 bps).
 
----
-
+```
 ## 🧺s Testbench Behavior
 
 The testbench does the following:
@@ -62,9 +60,8 @@ s
 a
 n
 a
-```
 
----
+```
 
 ## 🛄 How UART Transmit Works
 
@@ -103,7 +100,3 @@ Thạch ViaSaNa
 
 ---
 
-## 📄 License
-
-This UART module is free to use for academic and non-commercial purposes.
-```
